@@ -1,0 +1,6 @@
+streamlit>=1.39.0
+folium>=0.17.0
+streamlit-folium>=0.23.0
+geopy>=2.4.1
+Pillow>=10.4.0
+google-genai>=1.0.0
